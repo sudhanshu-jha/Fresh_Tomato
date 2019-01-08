@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/sudhanshu-jha/fresh_tomato/badge)](https://www.codefactor.io/repository/github/sudhanshu-jha/fresh_tomato)
 # Fresh_Tomato
 A simple Trailer website 
 
